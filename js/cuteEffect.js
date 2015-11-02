@@ -1,7 +1,7 @@
 var POLL_PERIOD = 1000; // in milliseconds
 
 $( document ).ready(function() {
-	var data = 5;
+	var data = 6;
 	setInterval(function () {cuteEffect();}, POLL_PERIOD);
 
 	function cuteEffect() {

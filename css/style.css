@@ -12,3 +12,11 @@ body {
 	-o-transition: background-color 500ms ease-in;
 	transition: background-color 500ms ease-in;
 }
+
+#logodiv {
+	text-align: center;
+}
+
+#logo {
+	width: 60%;
+}

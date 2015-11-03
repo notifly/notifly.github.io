@@ -3,26 +3,6 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
-div {
-	display: inline-block;
-}
-
-#drawingcontainer {
-	width: 50%;
-}
-
-#textcontainer {
-	position: absolute;
-	min-width: 400px;
-	width: 45%;
-}
-
-#textcontainer p {
-	margin: 30px 50px 0px 30px;
-	text-align: justify;
-}
-
-
 #drawing {
 	background-color: limegreen;
 	width: 100%;

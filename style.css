@@ -1,21 +1,33 @@
 body {
 	background-color: white;
+	font-family: 'Roboto', sans-serif;
 }
+
+div {
+	display: inline-block;
+}
+
+#drawingcontainer {
+	width: 50%;
+}
+
+#textcontainer {
+	position: absolute;
+	width: 45%;
+}
+
+#textcontainer p {
+	margin: 30px 50px 0px 30px;
+	text-align: justify;
+}
+
 
 #drawing {
 	background-color: limegreen;
-	width: 50%;
-	//position: fixed;
-	top: 0;
-	right: 0;
+	width: 100%;
 	
-	//z-index: -100;
 	-webkit-transition: background-color 500ms ease-in;
 	-moz-transition: background-color 500ms ease-in;
 	-o-transition: background-color 500ms ease-in;
 	transition: background-color 500ms ease-in;
-
-	//float: left;
-	//max-width: 1160px;
-	//height: auto;
 }

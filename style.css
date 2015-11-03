@@ -13,6 +13,7 @@ div {
 
 #textcontainer {
 	position: absolute;
+	min-width: 400px;
 	width: 45%;
 }
 

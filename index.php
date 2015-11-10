@@ -6,8 +6,18 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <meta charset="utf-8">
 <title>Notifly</title>
+<meta property="og:site_name" content="Notifly" />
+<meta property="og:title" content="Notifly" />
+<meta property="og:url"   content="http://notifly.xyz" />
+<meta property="og:description" content="" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:image" content="http://notifly.xyz/images/logo.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@hackerschoolist" />
 <meta name="description" content="">
 <meta name="author" content="">
+<!-- analytics -->
+<?php if(!isset($_GET['nt'])) include_once("analyticstracking.php"); ?>
 
 <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

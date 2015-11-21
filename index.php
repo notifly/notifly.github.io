@@ -91,6 +91,11 @@
 	</form>
       </div>
 
+      <p>
+      <strong>Contact us:</strong>
+      <br>
+      <a href="mailto:notifly-startup@gmail.com">notifly-startup@gmail.com</a>
+
       <!--End mc_embed_signup-->
     </div>
   </div>
